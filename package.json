@@ -1,0 +1,23 @@
+{
+  "name": "node-event-loop-and-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "first_api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paruljamwal/NODE-EVENT-LOOP-AND-HTTP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paruljamwal/NODE-EVENT-LOOP-AND-HTTP/issues"
+  },
+  "homepage": "https://github.com/paruljamwal/NODE-EVENT-LOOP-AND-HTTP#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
