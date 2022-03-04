@@ -3,7 +3,7 @@ const express=require("express");
 const app=express()
 console.log(app);
 // Create server ------->
-app.get("/home",function(req,res){
+app.get("/",function(req,res){
     res.send("hello");
     
 });
